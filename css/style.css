@@ -1,0 +1,141 @@
+@font-face {
+font-family: 'bignoodletoo';
+src: url("../fonts/bignoodletoo.ttf");
+}
+@font-face{
+font-family: 'koverwatch';
+src: url("../fonts/koverwatch.ttf");
+}
+@font-face{
+font-family: 'ethnocentricit';
+src: url("../fonts/Demonized.ttf");
+}
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+html{
+	width: 100%;
+	height: auto;
+}
+body{
+	background: #fff ;
+	overflow-x: hidden;
+	height: 200vh;
+}
+.nav{
+	margin-top: 20px;
+	width: 100%;
+	height: 25vh;
+	position: absolute;
+	z-index: 100;
+}
+.nav ul{
+	width: 100%
+	height: 100%;
+	margin-right: 30vh;
+}
+.nav ul li{
+	float: right;
+	display: inline-block;
+}
+.nav ul li a{
+	font-family: 'Arial';
+	letter-spacing: 1px;
+	font-size: 20pt;
+	padding-right: 30px;
+	padding-left: 2.5vh;
+	color: #fff;
+	padding-top: 10px;
+}
+.hello{
+    font-family: 'bignoodletoo', sans-serif;
+    font-size: 210pt;
+    text-align: center;
+    margin-left: -78vh;
+    padding-top: 32vh;
+    font-weight: bold;
+    color: #fff;
+}
+.my-name{
+	text-align: center;
+	font-family: 'koverwatch';
+    padding-top: 2vh;
+	font-size: 28pt;
+    letter-spacing: 1px; 
+    margin-left: -35vh;
+    color: #fff;
+}
+.name{
+    font-family: 'bignoodletoo', sans-serif;
+    font-size: 80pt;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-top: 4vh;
+    margin-left: -80vh;
+	color:  #fff;
+	padding-right: 30px;
+}
+.cover-info{
+	width: 120%;
+	margin-right: -10%;
+	height: 95vh;
+	margin-top: -25vh;
+	float: right;
+	background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+ 	transform: rotate(-12.5deg);
+ 	box-shadow:inset 0px 0px 80px 20px rgba(0, 0, 0, 0.4);
+ 	border-bottom: 1px solid #fff;
+}
+
+.project-container{
+	width: calc(100% - 80%);
+	min-width: 340px;
+	margin-right: 63%;
+	height: 56vh;
+	min-height: 400px;
+	transform: skew(12.5deg);
+	border: 7px solid #FF556B;
+	float: right;
+}
+.page{
+	width: calc(100% - 260px);
+	height: 70vh;
+	display: block;
+	float: right;
+}
+.footer{
+	width: 100%
+	height: 5%;
+	background: #fff;
+}
+.footer ul{
+	width: 100%
+	height: 100%;
+	background: green;
+}
+
+.footer ul li{
+	display: inline-block;
+}
+
+.site-illustrations{
+	position: relative;
+	width: 50%;
+	float: right;
+	transform: rotate(-10deg);
+	margin-top: -50vh;
+	margin-right: -20vh;
+}
+
+.site-illustrations img{
+	width: 44%;
+	border-radius: 6px;
+	display: inline-block;
+	margin-right: 3%;
+	margin-top: 3%;
+	float: right;
+    box-shadow: 8px 8px 6px -6px rgba(0, 0, 0, 0.2);
+}
