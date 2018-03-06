@@ -29,9 +29,9 @@
 		</p>
 		<ul style="margin-bottom: 10%;">
 			<li><a href="https://reddit.com/u/jobgh/">Reddit</a> &emsp;</li>
-			<li><a href="https://youtube.com">YouTube</a> &emsp;</li>
+			<li><a href="https://www.youtube.com/channel/UC05IgSXAOdOS0WmueKYPquw">YouTube</a> &emsp;</li>
 			<li><a href="https://github.com/cyruscuenca/">GitHub</a> &emsp;</li>
-			<li><a href="https://github.com/cyruscuenca/">Twitter</a></li>
+			<li><a href="https://twitter.com/cyrus_cuenca/">Twitter</a></li>
 		</ul>
 		<div style="width: 515pt; margin: 0 auto; margin-top: 50pt;">
 			<div style=" font-family: 'Roboto Slab', serif; font-size: 25pt; background: #3A3A3A; color: #fff; width: 100%; margin-bottom: 20pt;"><p style="padding: 5pt 0 5pt 15pt;">// About Me</p></div>
